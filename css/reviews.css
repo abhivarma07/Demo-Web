@@ -207,11 +207,11 @@ svg {
   }
 }
 .slide:nth-child(5) {
-  left: 300%;
+  left: 400%;
 }
 .slide:nth-child(5) .slide__bg {
-  left: -150%;
-  background-image: url("images/4a.jpg");
+  left: -200%;
+  background-image: url("images/1a.jpg");
 }
 .slide:nth-child(5) .slide__overlay-path {
   fill: #cbc6c3;
